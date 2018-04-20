@@ -1,4 +1,4 @@
-class Evans < Formula
+class Test < Formula
   desc "test"
   homepage "https://github.com/ktr0731"
   url "https://github.com/ktr0731/foo/releases/download/foo.tar.gz"
